@@ -1,0 +1,24 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+}
+
+#countdown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  height: 100%;
+  background-color: #212529;
+
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20rem;
+  color: #f8f9fa;
+}
+
+.timeover {
+  font-size: 15rem;
+  letter-spacing: -0.5rem;
+}
