@@ -16,6 +16,8 @@ html, body {
   font-family: 'Roboto Mono', monospace;
   font-size: 20rem;
   color: #f8f9fa;
+  text-align: center;
+  line-height: 15rem;
 }
 
 .timeover {
